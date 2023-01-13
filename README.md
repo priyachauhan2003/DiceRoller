@@ -1,3 +1,3 @@
 # DICE ROLLER APP
 
-This Repository consist of the code of my first dice roller app (ANDROID).
+This Repository consist of the code of my first dice roller app (ANDROID STUDIO).
